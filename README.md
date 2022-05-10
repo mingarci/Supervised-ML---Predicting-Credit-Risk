@@ -1,3 +1,5 @@
+![mL](https://user-images.githubusercontent.com/96347335/167706327-5d74e0bb-63ca-4ca6-b9d0-4bbd5c6f4b00.jpeg)
+
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
 In this assignment, you will be building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
